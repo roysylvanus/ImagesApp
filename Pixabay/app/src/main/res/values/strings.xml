@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pixabay</string>
+    <string name="search_image">Search image</string>
+    <string name="would_you_like_more_details">Would you like to see more details</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="comments">Comments</string>
+    <string name="downloads">Downloads</string>
+    <string name="likes">Likes</string>
+    <string name="no_available_items">There are no available items. Please try again</string>
+    <string name="internet_error">Something went wrong. Please check your internet connection.</string>
+</resources>
